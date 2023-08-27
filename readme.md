@@ -14,15 +14,23 @@ The solution presented here, shows how a new encounter of BETA BLOCKER use by a 
 can be used to predict any one of 160 different encounters including diagnoses, procedures, service and Rx.
 
 As you will see, this tool benefits the following entities : -
+
 (1) Provider-end (hospitals, doctors, physicians, nurses, clinicians),
+
 (2) Payer-end (risk managers, clinical managers, actuary, medical economics, finance). 
 
 The prediction gives a quick sense of severity of a patient (member). This is valuable in following scenarios :-
+
 (1) Effective and Efficient Member Intervention,
+
 (2) Budgeting,
+
 (3) Accurate Risk Assessment
-(4) Reduce Costs - Efficiently and targeted member intervention reduces costs,
+
+(4) Reduce Costs - Efficient and targeted member intervention reduces costs,
+
 (5) Reduce financial burden of most expensive procedures,
+
 (6) Substantially grow ROI.
 
 In real world, this would not be the only tool at disposal. An well-informed decision would have to made by weighing predictions 
@@ -35,13 +43,17 @@ to way fewer members resulting in more ROI.
 Coding is done using Python and Keras. Intermediate outputs are printed in the notebook for clarity.
 
 Files are arranged as below - 
+
 (1) Data preparation - Step_01_Data_Preparation_(for_Prediction_of_Patient_New_Beta_Blocker_Use).ipynb
+    
     Output of Data Preparation - step_01_output.zip
     
 (2) Prediction with Neural Network - Step_02_Neural_Network_(for_Prediction_of_Patient_New_Beta_Blocker_Use).ipynb
+    
     Output - printed within the notebook.
 
 (3) Prediction with Naive Bayes - Step_02_NaiveBayesClassifier_(for_Prediction_of_Patient_New_Beta_Blocker_Use).ipynb
+    
     Output - printed within the notebook and model saved in directory - step_02_output_keras_model/
 
 (4) Real-world prediction - Step_03_Real-world_Prediction_of_Patient_New_Beta_Blocker_Use.ipynb
