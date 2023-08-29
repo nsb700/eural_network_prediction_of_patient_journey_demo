@@ -10,7 +10,7 @@ to get a sense of what encounters a patient may likely experience in future - so
 either by accounting in the budget or by member-intervention or accounting for the risk. Knowing versus not knowing can be a 
 huge difference in ROI. 
 
-The solution presented here, shows how a new encounter of BETA BLOCKER use by a patient can be predicted - Altough the solution 
+The solution presented here, shows how a new encounter of BETA BLOCKER use by a patient can be predicted - Although the solution 
 can be used to predict any one of 160 different encounters including diagnoses, procedures, service and Rx.
 
 As you will see, this tool benefits the following entities : -
