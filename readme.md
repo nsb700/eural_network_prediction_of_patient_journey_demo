@@ -36,7 +36,7 @@ The prediction gives a quick sense of severity of a patient (member). This is va
 In real world, this would not be the only tool at disposal. An well-informed decision would have to made by weighing predictions 
 of this model with other tools at disposal. For ex: Let's say a clinical team at the payer-end already has been using medical charts
 for selecting patients to contact for member intervention.
-After analyzing medical charts (also see https://github.com/nsb700/pdf-medical-charts-reader-demo), if the clinical team is able to find say 
+After analyzing medical charts (also see https://github.com/nsb700/statistical-indexer-medical-charts), if the clinical team is able to find say 
 100 members, this tool can further help to focus on members of interest based on high cost items. It can reduce the member set from 100
 to way fewer members resulting in more ROI.
 
@@ -51,12 +51,9 @@ Files are arranged as below -
 (2) Prediction with Neural Network - Step_02_Neural_Network_(for_Prediction_of_Patient_New_Beta_Blocker_Use).ipynb
     
     Output - printed within the notebook.
+    Model - saved in step_02_output_keras_model 
 
-(3) Prediction with Naive Bayes - Step_02_NaiveBayesClassifier_(for_Prediction_of_Patient_New_Beta_Blocker_Use).ipynb
-    
-    Output - printed within the notebook and model saved in directory - step_02_output_keras_model/
-
-(4) Real-world prediction - Step_03_Real-world_Prediction_of_Patient_New_Beta_Blocker_Use.ipynb
+(3) Real-world prediction - Step_03_Real-world_Prediction_of_Patient_New_Beta_Blocker_Use.ipynb
 
 ***
 
